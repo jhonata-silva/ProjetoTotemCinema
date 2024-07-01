@@ -1,36 +1,30 @@
-# Totem de Consulta das Linhas de Ônibus de São Luís
+# Totem de Consulta de Informações de Filmes
 
 ## Descrição do Projeto
 
-Desenvolvido no Instituto Federal de Educação, Ciência e Tecnologia do Maranhão (IFMA), este projeto consiste em um sistema de Totem de Consulta para as linhas de ônibus de São Luís. Ele foi criado com o objetivo de proporcionar uma ferramenta acessível tanto para usuários do transporte público quanto para turistas, permitindo que eles obtenham informações detalhadas sobre as linhas de ônibus disponíveis. O sistema ajuda os usuários a planejarem suas rotas a partir dos Terminais de Integração da cidade. Utilizando C# e o ambiente do Visual Studio, o projeto foi desenvolvido em colaboração na sala de aula, sob a orientação do Professor Mauro Lopes.
+O objetivo principal deste software é automatizar e otimizar as operações de um cinema, tornando o gerenciamento de salas e horários de exibição de filmes mais fácil e eficiente. 
+Com este software, os administradores do cinema serão capazes de fornecer informações sobre horários de exibição, descrições dos filmes, preços e classificações, o que ajudará os clientes a tomar decisões informadas sobre quais filmes assistir.
+Em resumo, o software de gerenciamento do cinema vai permitir mostrar ao cliente a lista de filmes em cartaz do cinema, e fazer com que o administrador tenha total controle das informações expostas.
+
 
 ## Funcionalidades
 
-- **Cadastro de Bairros:** Permite cadastrar bairros para que estejam disponíveis para montar os itinerários e consultas.
-- **Cadastro de Pontos Turísticos:** Permite cadastrar pontos turísticos da cidade para consulta.
-- **Cadastro de Hospitais:** Permite cadastrar hospitais para consultas de itinerário.
-- **Cadastro de Escolas:** Permite cadastrar escolas como opções de destino.
-- **Cadastro de Shopping Centers:** Permite cadastrar shoppings como opções de destino.
-- **Cadastro de Praias:** Permite cadastrar praias como opções de destino.
-- **Cadastro de Terminais de Integração:** Permite cadastrar terminais para consultas de itinerário.
-- **Cadastro de Linhas de Ônibus:** Permite cadastrar linhas de ônibus existentes.
-- **Montar Itinerário:** Permite montar itinerários das linhas de ônibus.
-- **Horário de Chegada dos Ônibus:** (Opcional) Exibe horários de chegada dos ônibus.
+- **Consulta de Filmes em Cartaz:** Visualize os filmes atualmente em exibição no cinema.
+- **Detalhes do Filme:** Informações detalhadas sobre cada filme, incluindo sinopse, classificação, diretor e elenco.
+- **Consulta de Horários de Sessões:** Verifique os horários das sessões de cada filme.
+- **Busca por Filme:** Facilite a localização de filmes específicos.
+- **Reserva de Ingressos:** (Opcional) Reserve ingressos para sessões futuras.
 
 ## Requisitos Não Funcionais
 
-- **Segurança:** Criação de usuários e senhas com padrões específicos.
-- **Usabilidade:** O sistema deve ter ótima usabilidade, especialmente no Terminal de Consulta.
-- **Plataforma:** Desenvolvido para a plataforma Windows.
+- **Segurança:** Proteção de informações sensíveis dos usuários, como dados de pagamento.
+- **Usabilidade:** Interface intuitiva, ideal para usuários de diferentes idades e habilidades.
+- **Plataforma:** Desenvolvido para operar eficientemente em plataformas Windows.
 
 ## Usuários do Sistema
 
-- **Usuário do Transporte Público:** Utiliza o terminal para informar origem e destino e obter informações sobre as linhas de ônibus.
-- **Administrador do Sistema:** Responsável por cadastrar e gerenciar os dados no sistema.
-
-## Diagrama de Caso de Uso
-
-![Diagrama de Caso de Uso](https://drive.google.com/file/d/1ydBbLZe4GmjH3fc4-KTsdkfhnI5iPdiz/view?usp=sharing)
+- **Usuários do Cinema:** Utilize o totem para consultar informações sobre filmes em exibição e horários de sessões.
+- **Administradores do Sistema:** Responsáveis pela atualização das informações dos filmes.
 
 ## Como Utilizar
 
@@ -53,5 +47,5 @@ Desenvolvido no Instituto Federal de Educação, Ciência e Tecnologia do Maranh
 
 ## Documentação
 
-Para mais detalhes sobre os requisitos e o desenvolvimento do projeto, consulte o [Documento de Requisitos](https://drive.google.com/file/d/1ydBbLZe4GmjH3fc4-KTsdkfhnI5iPdiz/view?usp=sharing).
+Para mais detalhes sobre os requisitos e o desenvolvimento do projeto, consulte o [Documento de Requisitos](#).
 
